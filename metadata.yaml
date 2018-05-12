@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '32106'
     url: http://www.gutenberg.org/2009/agents/32106
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29954#There-is-a-Reaper-...
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-09-10'
 gutenberg_type: Text
